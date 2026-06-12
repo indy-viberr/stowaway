@@ -1,0 +1,447 @@
+[
+  {
+    "load_id": "L-1001",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.85,
+    "date_legible": true,
+    "consignee_name": "Westgate Distribution Center",
+    "doc_quality": 0.81
+  },
+  {
+    "load_id": "L-1002",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.9,
+    "date_legible": true,
+    "consignee_name": "Cordova Cold Storage",
+    "doc_quality": 0.87
+  },
+  {
+    "load_id": "L-1003",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.62,
+    "date_legible": true,
+    "consignee_name": "Summit Building Supply",
+    "doc_quality": 0.77
+  },
+  {
+    "load_id": "L-1004",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.73,
+    "date_legible": true,
+    "consignee_name": "Pacific Crest Retail DC",
+    "doc_quality": 0.67
+  },
+  {
+    "load_id": "L-1005",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.91,
+    "date_legible": true,
+    "consignee_name": "Summit Building Supply",
+    "doc_quality": 0.68
+  },
+  {
+    "load_id": "L-1006",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.84,
+    "date_legible": true,
+    "consignee_name": "Pacific Crest Retail DC",
+    "doc_quality": 0.89
+  },
+  {
+    "load_id": "L-1007",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.91,
+    "date_legible": true,
+    "consignee_name": "Reliant Auto Parts Whse",
+    "doc_quality": 0.66
+  },
+  {
+    "load_id": "L-1008",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.89,
+    "date_legible": true,
+    "consignee_name": "Marquez Produce Co",
+    "doc_quality": 0.84
+  },
+  {
+    "load_id": "L-1009",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.93,
+    "date_legible": true,
+    "consignee_name": "Reliant Auto Parts Whse",
+    "doc_quality": 0.71
+  },
+  {
+    "load_id": "L-1010",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.7,
+    "date_legible": true,
+    "consignee_name": "Reliant Auto Parts Whse",
+    "doc_quality": 0.6
+  },
+  {
+    "load_id": "L-1011",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.9,
+    "date_legible": true,
+    "consignee_name": "Westgate Distribution Center",
+    "doc_quality": 0.74
+  },
+  {
+    "load_id": "L-1012",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.91,
+    "date_legible": true,
+    "consignee_name": "Pacific Crest Retail DC",
+    "doc_quality": 0.86
+  },
+  {
+    "load_id": "L-1013",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.74,
+    "date_legible": true,
+    "consignee_name": "Hilltop Foods DC #4",
+    "doc_quality": 0.63
+  },
+  {
+    "load_id": "L-1014",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.7,
+    "date_legible": true,
+    "consignee_name": "Cordova Cold Storage",
+    "doc_quality": 0.76
+  },
+  {
+    "load_id": "L-1015",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.94,
+    "date_legible": true,
+    "consignee_name": "Westgate Distribution Center",
+    "doc_quality": 0.66
+  },
+  {
+    "load_id": "L-1016",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.96,
+    "date_legible": true,
+    "consignee_name": "Marquez Produce Co",
+    "doc_quality": 0.7
+  },
+  {
+    "load_id": "L-1017",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.86,
+    "date_legible": true,
+    "consignee_name": "Hilltop Foods DC #4",
+    "doc_quality": 0.83
+  },
+  {
+    "load_id": "L-1018",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.76,
+    "date_legible": true,
+    "consignee_name": "Marquez Produce Co",
+    "doc_quality": 0.63
+  },
+  {
+    "load_id": "L-1019",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.77,
+    "date_legible": true,
+    "consignee_name": "Pacific Crest Retail DC",
+    "doc_quality": 0.84
+  },
+  {
+    "load_id": "L-1020",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.89,
+    "date_legible": true,
+    "consignee_name": "Westgate Distribution Center",
+    "doc_quality": 0.69
+  },
+  {
+    "load_id": "L-1021",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.73,
+    "date_legible": true,
+    "consignee_name": "Hilltop Foods DC #4",
+    "doc_quality": 0.71
+  },
+  {
+    "load_id": "L-1022",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.93,
+    "date_legible": true,
+    "consignee_name": "Reliant Auto Parts Whse",
+    "doc_quality": 0.91
+  },
+  {
+    "load_id": "L-1023",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.77,
+    "date_legible": true,
+    "consignee_name": "Summit Building Supply",
+    "doc_quality": 0.74
+  },
+  {
+    "load_id": "L-1024",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.81,
+    "date_legible": true,
+    "consignee_name": "Summit Building Supply",
+    "doc_quality": 0.57
+  },
+  {
+    "load_id": "L-1025",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.86,
+    "date_legible": true,
+    "consignee_name": "Bluebonnet Beverage Co",
+    "doc_quality": 0.75
+  },
+  {
+    "load_id": "L-1026",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.71,
+    "date_legible": true,
+    "consignee_name": "Reliant Auto Parts Whse",
+    "doc_quality": 0.84
+  },
+  {
+    "load_id": "L-1027",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.91,
+    "date_legible": true,
+    "consignee_name": "Pacific Crest Retail DC",
+    "doc_quality": 0.56
+  },
+  {
+    "load_id": "L-1028",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.67,
+    "date_legible": true,
+    "consignee_name": "Westgate Distribution Center",
+    "doc_quality": 0.76
+  },
+  {
+    "load_id": "L-1029",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.88,
+    "date_legible": true,
+    "consignee_name": "Summit Building Supply",
+    "doc_quality": 0.85
+  },
+  {
+    "load_id": "L-1030",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.71,
+    "date_legible": true,
+    "consignee_name": "Cordova Cold Storage",
+    "doc_quality": 0.79
+  },
+  {
+    "load_id": "L-1031",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.75,
+    "date_legible": true,
+    "consignee_name": "Westgate Distribution Center",
+    "doc_quality": 0.63
+  },
+  {
+    "load_id": "L-1032",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.79,
+    "date_legible": true,
+    "consignee_name": "Bluebonnet Beverage Co",
+    "doc_quality": 0.95
+  },
+  {
+    "load_id": "L-1033",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.64,
+    "date_legible": true,
+    "consignee_name": "Hilltop Foods DC #4",
+    "doc_quality": 0.95
+  },
+  {
+    "load_id": "L-1034",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.75,
+    "date_legible": true,
+    "consignee_name": "Reliant Auto Parts Whse",
+    "doc_quality": 0.94
+  },
+  {
+    "load_id": "L-1035",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.95,
+    "date_legible": true,
+    "consignee_name": "Pacific Crest Retail DC",
+    "doc_quality": 0.68
+  },
+  {
+    "load_id": "L-1036",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.63,
+    "date_legible": true,
+    "consignee_name": "Pacific Crest Retail DC",
+    "doc_quality": 0.75
+  },
+  {
+    "load_id": "L-1037",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.77,
+    "date_legible": true,
+    "consignee_name": "Bluebonnet Beverage Co",
+    "doc_quality": 0.75
+  },
+  {
+    "load_id": "L-1038",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.65,
+    "date_legible": true,
+    "consignee_name": "Cordova Cold Storage",
+    "doc_quality": 0.63
+  },
+  {
+    "load_id": "L-1039",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.69,
+    "date_legible": true,
+    "consignee_name": "Cordova Cold Storage",
+    "doc_quality": 0.72
+  },
+  {
+    "load_id": "L-1040",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.9,
+    "date_legible": true,
+    "consignee_name": "Westgate Distribution Center",
+    "doc_quality": 0.74
+  },
+  {
+    "load_id": "L-1041",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.73,
+    "date_legible": true,
+    "consignee_name": "Hilltop Foods DC #4",
+    "doc_quality": 0.69
+  },
+  {
+    "load_id": "L-1042",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.9,
+    "date_legible": true,
+    "consignee_name": "Hilltop Foods DC #4",
+    "doc_quality": 0.79
+  },
+  {
+    "load_id": "L-1043",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.84,
+    "date_legible": true,
+    "consignee_name": "Cordova Cold Storage",
+    "doc_quality": 0.86
+  },
+  {
+    "load_id": "L-1044",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.82,
+    "date_legible": true,
+    "consignee_name": "Summit Building Supply",
+    "doc_quality": 0.65
+  },
+  {
+    "load_id": "L-1045",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.8,
+    "date_legible": true,
+    "consignee_name": "Marquez Produce Co",
+    "doc_quality": 0.94
+  },
+  {
+    "load_id": "L-1046",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.84,
+    "date_legible": true,
+    "consignee_name": "Marquez Produce Co",
+    "doc_quality": 0.6
+  },
+  {
+    "load_id": "L-1047",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.74,
+    "date_legible": true,
+    "consignee_name": "Cordova Cold Storage",
+    "doc_quality": 0.91
+  },
+  {
+    "load_id": "L-1048",
+    "present": true,
+    "signature_present": false,
+    "signature_legibility": 0.0,
+    "date_legible": true,
+    "consignee_name": "Hilltop Foods DC #4",
+    "doc_quality": 0.7
+  },
+  {
+    "load_id": "L-1049",
+    "present": false
+  },
+  {
+    "load_id": "L-1050",
+    "present": true,
+    "signature_present": true,
+    "signature_legibility": 0.7,
+    "date_legible": true,
+    "consignee_name": "Eastline Paper Products",
+    "doc_quality": 0.59
+  }
+]

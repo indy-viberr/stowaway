@@ -1,0 +1,5 @@
+{
+  "771455": {
+    "report_md": "**Vendor risk dossier \u2014 'Apex Freight Solutions' (MC 771455)** *(synthetic demo fixture; live mode generates this via Tavily /research with real citations)*\n\n- MC 771455 is registered to **Garza Trucking LLC** (El Paso, TX), not 'Apex Freight Solutions'. [synthetic:fmcsa-safer/MC-771455]\n- 'Apex Freight Solutions LLC' was registered **11 weeks ago**; registered agent address resolves to a mailbox store in Doral, FL. [synthetic:sunbiz/apex-freight]\n- Remit-to bank account changed once already this quarter. [synthetic:internal/remit-history]\n- Pattern match: consistent with **double-brokering** \u2014 a shell invoicing under a real carrier's MC. Recommended action: hold payment, verify with Garza Trucking dispatch directly.\n"
+  }
+}

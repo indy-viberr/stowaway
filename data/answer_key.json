@@ -1,0 +1,48 @@
+{
+  "INV-26036": [
+    "PHANTOM_CARRIER"
+  ],
+  "INV-26037": [
+    "AUTHORITY_REVOKED"
+  ],
+  "INV-26038": [
+    "CARRIER_NAME_MISMATCH",
+    "STALE_FUEL_WEEK"
+  ],
+  "INV-26039": [
+    "STALE_FUEL_WEEK"
+  ],
+  "INV-26040": [
+    "STALE_FUEL_WEEK"
+  ],
+  "INV-26041": [
+    "STALE_FUEL_WEEK"
+  ],
+  "INV-26043": [
+    "DUPLICATE_BILLING"
+  ],
+  "INV-26044": [
+    "UNAUTHORIZED_ACCESSORIAL"
+  ],
+  "INV-26045": [
+    "UNAUTHORIZED_ACCESSORIAL"
+  ],
+  "INV-26046": [
+    "DUPLICATE_ACCESSORIAL"
+  ],
+  "INV-26047": [
+    "LINEHAUL_VARIANCE"
+  ],
+  "INV-26048": [
+    "LINEHAUL_VARIANCE"
+  ],
+  "INV-26049": [
+    "POD_SIGNATURE_MISSING"
+  ],
+  "INV-26050": [
+    "POD_MISSING"
+  ],
+  "INV-26051": [
+    "CONSIGNEE_MISMATCH"
+  ]
+}

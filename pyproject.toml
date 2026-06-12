@@ -1,0 +1,17 @@
+[project]
+name = "stowaway"
+version = "0.1.0"
+description = "Finds the charges hiding in your hull. Freight-audit agent: validates carrier invoices against the live web. Flags the money; never moves it."
+requires-python = ">=3.10"
+# Replay mode (make demo / make test) is stdlib-only by design.
+dependencies = []
+
+[project.optional-dependencies]
+live = [
+    "tavily-python>=0.5",   # external truth: FMCSA, DOE index, /research
+    "openai>=1.0",          # Nebius Token Factory (OpenAI-compatible)
+    "composio>=0.7",        # Tool Router: Gmail intake, Slack routing
+]
+
+[project.scripts]
+stowaway = "stowaway.cli:main"

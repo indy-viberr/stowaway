@@ -1,0 +1,1031 @@
+[
+  {
+    "invoice_id": "INV-26001",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "523901",
+    "carrier_name": "Bay & Border Freight LLC",
+    "load_id": "L-1001",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul El Paso, TX -> Phoenix, AZ",
+        "amount_cents": 157500
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 31500
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26002",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "655402",
+    "carrier_name": "Ironwood Trucking Co",
+    "load_id": "L-1002",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Stockton, CA -> Portland, OR",
+        "amount_cents": 335000
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 67000
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26003",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "748266",
+    "carrier_name": "Bluegrass Motor Freight Inc",
+    "load_id": "L-1003",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Nuevo Laredo, MX -> San Antonio, TX",
+        "amount_cents": 305000
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 61000
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26004",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "801276",
+    "carrier_name": "Northstar Drayage Co",
+    "load_id": "L-1004",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Laredo, TX -> Memphis, TN",
+        "amount_cents": 285000
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 57000
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26005",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "688191",
+    "carrier_name": "Sundial Logistics Inc",
+    "load_id": "L-1005",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Stockton, CA -> Portland, OR",
+        "amount_cents": 140000
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 28000
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26006",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "774512",
+    "carrier_name": "Lakeshore Freightways Inc",
+    "load_id": "L-1006",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul El Paso, TX -> Phoenix, AZ",
+        "amount_cents": 215000
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 43000
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26007",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "774512",
+    "carrier_name": "Lakeshore Freightways Inc",
+    "load_id": "L-1007",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Laredo, TX -> Memphis, TN",
+        "amount_cents": 302500
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 60500
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26008",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "523901",
+    "carrier_name": "Bay & Border Freight LLC",
+    "load_id": "L-1008",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Laredo, TX -> Memphis, TN",
+        "amount_cents": 122500
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 24500
+      },
+      {
+        "code": "LUMPER",
+        "description": "LUMPER per rate con",
+        "amount_cents": 12500
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26009",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "815648",
+    "carrier_name": "Gulf Current Logistics LLC",
+    "load_id": "L-1009",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Long Beach, CA -> Las Vegas, NV",
+        "amount_cents": 230000
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 46000
+      },
+      {
+        "code": "DET",
+        "description": "DET per rate con",
+        "amount_cents": 15000
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26010",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "702553",
+    "carrier_name": "Comet Line Freight LLC",
+    "load_id": "L-1010",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Stockton, CA -> Portland, OR",
+        "amount_cents": 280000
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 56000
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26011",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "634710",
+    "carrier_name": "Pelican Transport LLC",
+    "load_id": "L-1011",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Laredo, TX -> Memphis, TN",
+        "amount_cents": 212500
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 42500
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26012",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "611234",
+    "carrier_name": "Cascade Carriers Corp",
+    "load_id": "L-1012",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Nuevo Laredo, MX -> San Antonio, TX",
+        "amount_cents": 175000
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 35000
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26013",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "801276",
+    "carrier_name": "Northstar Drayage Co",
+    "load_id": "L-1013",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul El Paso, TX -> Phoenix, AZ",
+        "amount_cents": 415000
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 83000
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26014",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "412887",
+    "carrier_name": "Meridian Haulage Inc",
+    "load_id": "L-1014",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Long Beach, CA -> Las Vegas, NV",
+        "amount_cents": 227500
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 45500
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26015",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "611234",
+    "carrier_name": "Cascade Carriers Corp",
+    "load_id": "L-1015",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Nuevo Laredo, MX -> San Antonio, TX",
+        "amount_cents": 262500
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 52500
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26016",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "688191",
+    "carrier_name": "Sundial Logistics Inc",
+    "load_id": "L-1016",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Laredo, TX -> Memphis, TN",
+        "amount_cents": 450000
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 90000
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26017",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "801276",
+    "carrier_name": "Northstar Drayage Co",
+    "load_id": "L-1017",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Fresno, CA -> Salt Lake City, UT",
+        "amount_cents": 427500
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 85500
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26018",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "523901",
+    "carrier_name": "Bay & Border Freight LLC",
+    "load_id": "L-1018",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul El Paso, TX -> Phoenix, AZ",
+        "amount_cents": 185000
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 37000
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26019",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "523901",
+    "carrier_name": "Bay & Border Freight LLC",
+    "load_id": "L-1019",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Nuevo Laredo, MX -> San Antonio, TX",
+        "amount_cents": 202500
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 40500
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26020",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "412887",
+    "carrier_name": "Meridian Haulage Inc",
+    "load_id": "L-1020",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Otay Mesa, CA -> Tucson, AZ",
+        "amount_cents": 477500
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 95500
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26021",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "774512",
+    "carrier_name": "Lakeshore Freightways Inc",
+    "load_id": "L-1021",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Otay Mesa, CA -> Tucson, AZ",
+        "amount_cents": 402500
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 80500
+      },
+      {
+        "code": "DET",
+        "description": "DET per rate con",
+        "amount_cents": 10000
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26022",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "412887",
+    "carrier_name": "Meridian Haulage Inc",
+    "load_id": "L-1022",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Laredo, TX -> Memphis, TN",
+        "amount_cents": 150000
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 30000
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26023",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "688191",
+    "carrier_name": "Sundial Logistics Inc",
+    "load_id": "L-1023",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Fresno, CA -> Salt Lake City, UT",
+        "amount_cents": 475000
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 95000
+      },
+      {
+        "code": "LUMPER",
+        "description": "LUMPER per rate con",
+        "amount_cents": 7500
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26024",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "634710",
+    "carrier_name": "Pelican Transport LLC",
+    "load_id": "L-1024",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul El Paso, TX -> Phoenix, AZ",
+        "amount_cents": 197500
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 39500
+      },
+      {
+        "code": "DET",
+        "description": "DET per rate con",
+        "amount_cents": 25000
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26025",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "789344",
+    "carrier_name": "Copperline Carriers LLC",
+    "load_id": "L-1025",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Fresno, CA -> Salt Lake City, UT",
+        "amount_cents": 352500
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 70500
+      },
+      {
+        "code": "DET",
+        "description": "DET per rate con",
+        "amount_cents": 22500
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26026",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "815648",
+    "carrier_name": "Gulf Current Logistics LLC",
+    "load_id": "L-1026",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Laredo, TX -> Memphis, TN",
+        "amount_cents": 260000
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 52000
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26027",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "761930",
+    "carrier_name": "Sierra Crest Trucking LLC",
+    "load_id": "L-1027",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Stockton, CA -> Portland, OR",
+        "amount_cents": 267500
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 53500
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26028",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "719008",
+    "carrier_name": "Harbor Mile Carriers Inc",
+    "load_id": "L-1028",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Stockton, CA -> Portland, OR",
+        "amount_cents": 385000
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 77000
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26029",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "655402",
+    "carrier_name": "Ironwood Trucking Co",
+    "load_id": "L-1029",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Laredo, TX -> Memphis, TN",
+        "amount_cents": 295000
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 59000
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26030",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "634710",
+    "carrier_name": "Pelican Transport LLC",
+    "load_id": "L-1030",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Fresno, CA -> Salt Lake City, UT",
+        "amount_cents": 165000
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 33000
+      },
+      {
+        "code": "DET",
+        "description": "DET per rate con",
+        "amount_cents": 12500
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26031",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "655402",
+    "carrier_name": "Ironwood Trucking Co",
+    "load_id": "L-1031",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Fresno, CA -> Salt Lake City, UT",
+        "amount_cents": 272500
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 54500
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26032",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "412887",
+    "carrier_name": "Meridian Haulage Inc",
+    "load_id": "L-1032",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Laredo, TX -> Memphis, TN",
+        "amount_cents": 452500
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 90500
+      },
+      {
+        "code": "LUMPER",
+        "description": "LUMPER per rate con",
+        "amount_cents": 7500
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26033",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "688191",
+    "carrier_name": "Sundial Logistics Inc",
+    "load_id": "L-1033",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Long Beach, CA -> Las Vegas, NV",
+        "amount_cents": 415000
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 83000
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26034",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "815648",
+    "carrier_name": "Gulf Current Logistics LLC",
+    "load_id": "L-1034",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Nuevo Laredo, MX -> San Antonio, TX",
+        "amount_cents": 312500
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 62500
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26035",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "733415",
+    "carrier_name": "Prairie Sky Transport LLC",
+    "load_id": "L-1035",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Stockton, CA -> Portland, OR",
+        "amount_cents": 472500
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 94500
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26036",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "998877",
+    "carrier_name": "Bluewater Logistics LLC",
+    "load_id": "L-1036",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul El Paso, TX -> Phoenix, AZ",
+        "amount_cents": 460000
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 92000
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26037",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "884210",
+    "carrier_name": "Redline Carriers Inc",
+    "load_id": "L-1037",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Stockton, CA -> Portland, OR",
+        "amount_cents": 367500
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 73500
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26038",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "771455",
+    "carrier_name": "Apex Freight Solutions",
+    "load_id": "L-1038",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul El Paso, TX -> Phoenix, AZ",
+        "amount_cents": 390000
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 93600
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26039",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "748266",
+    "carrier_name": "Bluegrass Motor Freight Inc",
+    "load_id": "L-1039",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Long Beach, CA -> Las Vegas, NV",
+        "amount_cents": 152500
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 36600
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26040",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "815648",
+    "carrier_name": "Gulf Current Logistics LLC",
+    "load_id": "L-1040",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Long Beach, CA -> Las Vegas, NV",
+        "amount_cents": 397500
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 95400
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26041",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "733415",
+    "carrier_name": "Prairie Sky Transport LLC",
+    "load_id": "L-1041",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Stockton, CA -> Portland, OR",
+        "amount_cents": 237500
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 57000
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26042",
+    "invoice_date": "2026-06-05",
+    "carrier_mc": "688191",
+    "carrier_name": "Sundial Logistics Inc",
+    "load_id": "L-1042",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Oakland, CA -> Reno, NV",
+        "amount_cents": 252500
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 50500
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26043",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "688191",
+    "carrier_name": "Sundial Logistics Inc",
+    "load_id": "L-1042",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Oakland, CA -> Reno, NV",
+        "amount_cents": 252500
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 50500
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26044",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "702553",
+    "carrier_name": "Comet Line Freight LLC",
+    "load_id": "L-1043",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Laredo, TX -> Memphis, TN",
+        "amount_cents": 377500
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 75500
+      },
+      {
+        "code": "LIFTGATE",
+        "description": "Liftgate service",
+        "amount_cents": 15000
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26045",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "774512",
+    "carrier_name": "Lakeshore Freightways Inc",
+    "load_id": "L-1044",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Nuevo Laredo, MX -> San Antonio, TX",
+        "amount_cents": 267500
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 53500
+      },
+      {
+        "code": "DET",
+        "description": "Detention 3 hrs",
+        "amount_cents": 45000
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26046",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "815648",
+    "carrier_name": "Gulf Current Logistics LLC",
+    "load_id": "L-1045",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Stockton, CA -> Portland, OR",
+        "amount_cents": 467500
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 93500
+      },
+      {
+        "code": "DET",
+        "description": "Detention 2.5 hrs",
+        "amount_cents": 37500
+      },
+      {
+        "code": "DET",
+        "description": "Detention 2.5 hrs",
+        "amount_cents": 37500
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26047",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "688191",
+    "carrier_name": "Sundial Logistics Inc",
+    "load_id": "L-1046",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Long Beach, CA -> Las Vegas, NV",
+        "amount_cents": 293000
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 55000
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26048",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "688191",
+    "carrier_name": "Sundial Logistics Inc",
+    "load_id": "L-1047",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Nuevo Laredo, MX -> San Antonio, TX",
+        "amount_cents": 377000
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 73500
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26049",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "789344",
+    "carrier_name": "Copperline Carriers LLC",
+    "load_id": "L-1048",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Laredo, TX -> Memphis, TN",
+        "amount_cents": 192500
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 38500
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26050",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "523901",
+    "carrier_name": "Bay & Border Freight LLC",
+    "load_id": "L-1049",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Oakland, CA -> Reno, NV",
+        "amount_cents": 312500
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 62500
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-26051",
+    "invoice_date": "2026-06-09",
+    "carrier_mc": "412887",
+    "carrier_name": "Meridian Haulage Inc",
+    "load_id": "L-1050",
+    "lines": [
+      {
+        "code": "LINEHAUL",
+        "description": "Linehaul Stockton, CA -> Portland, OR",
+        "amount_cents": 335000
+      },
+      {
+        "code": "FSC",
+        "description": "Fuel surcharge",
+        "amount_cents": 67000
+      }
+    ]
+  }
+]

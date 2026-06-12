@@ -1,0 +1,108 @@
+{
+  "412887": {
+    "authority": "ACTIVE",
+    "found": true,
+    "legal_name": "Meridian Haulage Inc",
+    "source": "synthetic:fmcsa-safer/MC-412887"
+  },
+  "523901": {
+    "authority": "ACTIVE",
+    "found": true,
+    "legal_name": "Bay & Border Freight LLC",
+    "source": "synthetic:fmcsa-safer/MC-523901"
+  },
+  "611234": {
+    "authority": "ACTIVE",
+    "found": true,
+    "legal_name": "Cascade Carriers Corp",
+    "source": "synthetic:fmcsa-safer/MC-611234"
+  },
+  "634710": {
+    "authority": "ACTIVE",
+    "found": true,
+    "legal_name": "Pelican Transport LLC",
+    "source": "synthetic:fmcsa-safer/MC-634710"
+  },
+  "655402": {
+    "authority": "ACTIVE",
+    "found": true,
+    "legal_name": "Ironwood Trucking Co",
+    "source": "synthetic:fmcsa-safer/MC-655402"
+  },
+  "688191": {
+    "authority": "ACTIVE",
+    "found": true,
+    "legal_name": "Sundial Logistics Inc",
+    "source": "synthetic:fmcsa-safer/MC-688191"
+  },
+  "702553": {
+    "authority": "ACTIVE",
+    "found": true,
+    "legal_name": "Comet Line Freight LLC",
+    "source": "synthetic:fmcsa-safer/MC-702553"
+  },
+  "719008": {
+    "authority": "ACTIVE",
+    "found": true,
+    "legal_name": "Harbor Mile Carriers Inc",
+    "source": "synthetic:fmcsa-safer/MC-719008"
+  },
+  "733415": {
+    "authority": "ACTIVE",
+    "found": true,
+    "legal_name": "Prairie Sky Transport LLC",
+    "source": "synthetic:fmcsa-safer/MC-733415"
+  },
+  "748266": {
+    "authority": "ACTIVE",
+    "found": true,
+    "legal_name": "Bluegrass Motor Freight Inc",
+    "source": "synthetic:fmcsa-safer/MC-748266"
+  },
+  "761930": {
+    "authority": "ACTIVE",
+    "found": true,
+    "legal_name": "Sierra Crest Trucking LLC",
+    "source": "synthetic:fmcsa-safer/MC-761930"
+  },
+  "771455": {
+    "authority": "ACTIVE",
+    "found": true,
+    "legal_name": "Garza Trucking LLC",
+    "source": "synthetic:fmcsa-safer/MC-771455"
+  },
+  "774512": {
+    "authority": "ACTIVE",
+    "found": true,
+    "legal_name": "Lakeshore Freightways Inc",
+    "source": "synthetic:fmcsa-safer/MC-774512"
+  },
+  "789344": {
+    "authority": "ACTIVE",
+    "found": true,
+    "legal_name": "Copperline Carriers LLC",
+    "source": "synthetic:fmcsa-safer/MC-789344"
+  },
+  "801276": {
+    "authority": "ACTIVE",
+    "found": true,
+    "legal_name": "Northstar Drayage Co",
+    "source": "synthetic:fmcsa-safer/MC-801276"
+  },
+  "815648": {
+    "authority": "ACTIVE",
+    "found": true,
+    "legal_name": "Gulf Current Logistics LLC",
+    "source": "synthetic:fmcsa-safer/MC-815648"
+  },
+  "884210": {
+    "authority": "REVOKED",
+    "found": true,
+    "legal_name": "Redline Carriers Inc",
+    "source": "synthetic:fmcsa-safer/MC-884210"
+  },
+  "998877": {
+    "found": false,
+    "source": "synthetic:fmcsa-safer/MC-998877"
+  }
+}

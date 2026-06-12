@@ -1,0 +1,804 @@
+[
+  {
+    "load_id": "L-1001",
+    "lane": "El Paso, TX -> Phoenix, AZ",
+    "pickup_date": "2026-05-29",
+    "carrier_mc": "523901",
+    "carrier_name": "Bay & Border Freight LLC",
+    "agreed_linehaul_cents": 157500,
+    "consignee": "Westgate Distribution Center",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      },
+      {
+        "code": "LUMPER",
+        "max_cents": 15000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1002",
+    "lane": "Stockton, CA -> Portland, OR",
+    "pickup_date": "2026-05-28",
+    "carrier_mc": "655402",
+    "carrier_name": "Ironwood Trucking Co",
+    "agreed_linehaul_cents": 335000,
+    "consignee": "Cordova Cold Storage",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1003",
+    "lane": "Nuevo Laredo, MX -> San Antonio, TX",
+    "pickup_date": "2026-05-26",
+    "carrier_mc": "748266",
+    "carrier_name": "Bluegrass Motor Freight Inc",
+    "agreed_linehaul_cents": 305000,
+    "consignee": "Summit Building Supply",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1004",
+    "lane": "Laredo, TX -> Memphis, TN",
+    "pickup_date": "2026-05-29",
+    "carrier_mc": "801276",
+    "carrier_name": "Northstar Drayage Co",
+    "agreed_linehaul_cents": 285000,
+    "consignee": "Pacific Crest Retail DC",
+    "accessorials_allowed": []
+  },
+  {
+    "load_id": "L-1005",
+    "lane": "Stockton, CA -> Portland, OR",
+    "pickup_date": "2026-05-22",
+    "carrier_mc": "688191",
+    "carrier_name": "Sundial Logistics Inc",
+    "agreed_linehaul_cents": 140000,
+    "consignee": "Summit Building Supply",
+    "accessorials_allowed": []
+  },
+  {
+    "load_id": "L-1006",
+    "lane": "El Paso, TX -> Phoenix, AZ",
+    "pickup_date": "2026-05-22",
+    "carrier_mc": "774512",
+    "carrier_name": "Lakeshore Freightways Inc",
+    "agreed_linehaul_cents": 215000,
+    "consignee": "Pacific Crest Retail DC",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      },
+      {
+        "code": "LUMPER",
+        "max_cents": 15000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1007",
+    "lane": "Laredo, TX -> Memphis, TN",
+    "pickup_date": "2026-06-04",
+    "carrier_mc": "774512",
+    "carrier_name": "Lakeshore Freightways Inc",
+    "agreed_linehaul_cents": 302500,
+    "consignee": "Reliant Auto Parts Whse",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1008",
+    "lane": "Laredo, TX -> Memphis, TN",
+    "pickup_date": "2026-05-20",
+    "carrier_mc": "523901",
+    "carrier_name": "Bay & Border Freight LLC",
+    "agreed_linehaul_cents": 122500,
+    "consignee": "Marquez Produce Co",
+    "accessorials_allowed": [
+      {
+        "code": "LUMPER",
+        "max_cents": 15000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1009",
+    "lane": "Long Beach, CA -> Las Vegas, NV",
+    "pickup_date": "2026-05-19",
+    "carrier_mc": "815648",
+    "carrier_name": "Gulf Current Logistics LLC",
+    "agreed_linehaul_cents": 230000,
+    "consignee": "Reliant Auto Parts Whse",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1010",
+    "lane": "Stockton, CA -> Portland, OR",
+    "pickup_date": "2026-05-20",
+    "carrier_mc": "702553",
+    "carrier_name": "Comet Line Freight LLC",
+    "agreed_linehaul_cents": 280000,
+    "consignee": "Reliant Auto Parts Whse",
+    "accessorials_allowed": []
+  },
+  {
+    "load_id": "L-1011",
+    "lane": "Laredo, TX -> Memphis, TN",
+    "pickup_date": "2026-05-27",
+    "carrier_mc": "634710",
+    "carrier_name": "Pelican Transport LLC",
+    "agreed_linehaul_cents": 212500,
+    "consignee": "Westgate Distribution Center",
+    "accessorials_allowed": []
+  },
+  {
+    "load_id": "L-1012",
+    "lane": "Nuevo Laredo, MX -> San Antonio, TX",
+    "pickup_date": "2026-05-27",
+    "carrier_mc": "611234",
+    "carrier_name": "Cascade Carriers Corp",
+    "agreed_linehaul_cents": 175000,
+    "consignee": "Pacific Crest Retail DC",
+    "accessorials_allowed": []
+  },
+  {
+    "load_id": "L-1013",
+    "lane": "El Paso, TX -> Phoenix, AZ",
+    "pickup_date": "2026-05-26",
+    "carrier_mc": "801276",
+    "carrier_name": "Northstar Drayage Co",
+    "agreed_linehaul_cents": 415000,
+    "consignee": "Hilltop Foods DC #4",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1014",
+    "lane": "Long Beach, CA -> Las Vegas, NV",
+    "pickup_date": "2026-06-04",
+    "carrier_mc": "412887",
+    "carrier_name": "Meridian Haulage Inc",
+    "agreed_linehaul_cents": 227500,
+    "consignee": "Cordova Cold Storage",
+    "accessorials_allowed": []
+  },
+  {
+    "load_id": "L-1015",
+    "lane": "Nuevo Laredo, MX -> San Antonio, TX",
+    "pickup_date": "2026-05-18",
+    "carrier_mc": "611234",
+    "carrier_name": "Cascade Carriers Corp",
+    "agreed_linehaul_cents": 262500,
+    "consignee": "Westgate Distribution Center",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      },
+      {
+        "code": "LUMPER",
+        "max_cents": 15000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1016",
+    "lane": "Laredo, TX -> Memphis, TN",
+    "pickup_date": "2026-05-28",
+    "carrier_mc": "688191",
+    "carrier_name": "Sundial Logistics Inc",
+    "agreed_linehaul_cents": 450000,
+    "consignee": "Marquez Produce Co",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1017",
+    "lane": "Fresno, CA -> Salt Lake City, UT",
+    "pickup_date": "2026-05-22",
+    "carrier_mc": "801276",
+    "carrier_name": "Northstar Drayage Co",
+    "agreed_linehaul_cents": 427500,
+    "consignee": "Hilltop Foods DC #4",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      },
+      {
+        "code": "LUMPER",
+        "max_cents": 15000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1018",
+    "lane": "El Paso, TX -> Phoenix, AZ",
+    "pickup_date": "2026-05-22",
+    "carrier_mc": "523901",
+    "carrier_name": "Bay & Border Freight LLC",
+    "agreed_linehaul_cents": 185000,
+    "consignee": "Marquez Produce Co",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      },
+      {
+        "code": "LUMPER",
+        "max_cents": 15000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1019",
+    "lane": "Nuevo Laredo, MX -> San Antonio, TX",
+    "pickup_date": "2026-05-21",
+    "carrier_mc": "523901",
+    "carrier_name": "Bay & Border Freight LLC",
+    "agreed_linehaul_cents": 202500,
+    "consignee": "Pacific Crest Retail DC",
+    "accessorials_allowed": []
+  },
+  {
+    "load_id": "L-1020",
+    "lane": "Otay Mesa, CA -> Tucson, AZ",
+    "pickup_date": "2026-05-28",
+    "carrier_mc": "412887",
+    "carrier_name": "Meridian Haulage Inc",
+    "agreed_linehaul_cents": 477500,
+    "consignee": "Westgate Distribution Center",
+    "accessorials_allowed": [
+      {
+        "code": "LUMPER",
+        "max_cents": 15000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1021",
+    "lane": "Otay Mesa, CA -> Tucson, AZ",
+    "pickup_date": "2026-05-22",
+    "carrier_mc": "774512",
+    "carrier_name": "Lakeshore Freightways Inc",
+    "agreed_linehaul_cents": 402500,
+    "consignee": "Hilltop Foods DC #4",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      },
+      {
+        "code": "LUMPER",
+        "max_cents": 15000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1022",
+    "lane": "Laredo, TX -> Memphis, TN",
+    "pickup_date": "2026-05-22",
+    "carrier_mc": "412887",
+    "carrier_name": "Meridian Haulage Inc",
+    "agreed_linehaul_cents": 150000,
+    "consignee": "Reliant Auto Parts Whse",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1023",
+    "lane": "Fresno, CA -> Salt Lake City, UT",
+    "pickup_date": "2026-05-26",
+    "carrier_mc": "688191",
+    "carrier_name": "Sundial Logistics Inc",
+    "agreed_linehaul_cents": 475000,
+    "consignee": "Summit Building Supply",
+    "accessorials_allowed": [
+      {
+        "code": "LUMPER",
+        "max_cents": 15000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1024",
+    "lane": "El Paso, TX -> Phoenix, AZ",
+    "pickup_date": "2026-06-05",
+    "carrier_mc": "634710",
+    "carrier_name": "Pelican Transport LLC",
+    "agreed_linehaul_cents": 197500,
+    "consignee": "Summit Building Supply",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1025",
+    "lane": "Fresno, CA -> Salt Lake City, UT",
+    "pickup_date": "2026-05-18",
+    "carrier_mc": "789344",
+    "carrier_name": "Copperline Carriers LLC",
+    "agreed_linehaul_cents": 352500,
+    "consignee": "Bluebonnet Beverage Co",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      },
+      {
+        "code": "LUMPER",
+        "max_cents": 15000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1026",
+    "lane": "Laredo, TX -> Memphis, TN",
+    "pickup_date": "2026-06-02",
+    "carrier_mc": "815648",
+    "carrier_name": "Gulf Current Logistics LLC",
+    "agreed_linehaul_cents": 260000,
+    "consignee": "Reliant Auto Parts Whse",
+    "accessorials_allowed": [
+      {
+        "code": "LUMPER",
+        "max_cents": 15000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1027",
+    "lane": "Stockton, CA -> Portland, OR",
+    "pickup_date": "2026-06-02",
+    "carrier_mc": "761930",
+    "carrier_name": "Sierra Crest Trucking LLC",
+    "agreed_linehaul_cents": 267500,
+    "consignee": "Pacific Crest Retail DC",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1028",
+    "lane": "Stockton, CA -> Portland, OR",
+    "pickup_date": "2026-05-18",
+    "carrier_mc": "719008",
+    "carrier_name": "Harbor Mile Carriers Inc",
+    "agreed_linehaul_cents": 385000,
+    "consignee": "Westgate Distribution Center",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1029",
+    "lane": "Laredo, TX -> Memphis, TN",
+    "pickup_date": "2026-05-19",
+    "carrier_mc": "655402",
+    "carrier_name": "Ironwood Trucking Co",
+    "agreed_linehaul_cents": 295000,
+    "consignee": "Summit Building Supply",
+    "accessorials_allowed": []
+  },
+  {
+    "load_id": "L-1030",
+    "lane": "Fresno, CA -> Salt Lake City, UT",
+    "pickup_date": "2026-05-23",
+    "carrier_mc": "634710",
+    "carrier_name": "Pelican Transport LLC",
+    "agreed_linehaul_cents": 165000,
+    "consignee": "Cordova Cold Storage",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1031",
+    "lane": "Fresno, CA -> Salt Lake City, UT",
+    "pickup_date": "2026-05-22",
+    "carrier_mc": "655402",
+    "carrier_name": "Ironwood Trucking Co",
+    "agreed_linehaul_cents": 272500,
+    "consignee": "Westgate Distribution Center",
+    "accessorials_allowed": []
+  },
+  {
+    "load_id": "L-1032",
+    "lane": "Laredo, TX -> Memphis, TN",
+    "pickup_date": "2026-06-05",
+    "carrier_mc": "412887",
+    "carrier_name": "Meridian Haulage Inc",
+    "agreed_linehaul_cents": 452500,
+    "consignee": "Bluebonnet Beverage Co",
+    "accessorials_allowed": [
+      {
+        "code": "LUMPER",
+        "max_cents": 15000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1033",
+    "lane": "Long Beach, CA -> Las Vegas, NV",
+    "pickup_date": "2026-05-20",
+    "carrier_mc": "688191",
+    "carrier_name": "Sundial Logistics Inc",
+    "agreed_linehaul_cents": 415000,
+    "consignee": "Hilltop Foods DC #4",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1034",
+    "lane": "Nuevo Laredo, MX -> San Antonio, TX",
+    "pickup_date": "2026-06-05",
+    "carrier_mc": "815648",
+    "carrier_name": "Gulf Current Logistics LLC",
+    "agreed_linehaul_cents": 312500,
+    "consignee": "Reliant Auto Parts Whse",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      },
+      {
+        "code": "LUMPER",
+        "max_cents": 15000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1035",
+    "lane": "Stockton, CA -> Portland, OR",
+    "pickup_date": "2026-05-23",
+    "carrier_mc": "733415",
+    "carrier_name": "Prairie Sky Transport LLC",
+    "agreed_linehaul_cents": 472500,
+    "consignee": "Pacific Crest Retail DC",
+    "accessorials_allowed": []
+  },
+  {
+    "load_id": "L-1036",
+    "lane": "El Paso, TX -> Phoenix, AZ",
+    "pickup_date": "2026-05-18",
+    "carrier_mc": "998877",
+    "carrier_name": "Bluewater Logistics LLC",
+    "agreed_linehaul_cents": 460000,
+    "consignee": "Pacific Crest Retail DC",
+    "accessorials_allowed": []
+  },
+  {
+    "load_id": "L-1037",
+    "lane": "Stockton, CA -> Portland, OR",
+    "pickup_date": "2026-06-04",
+    "carrier_mc": "884210",
+    "carrier_name": "Redline Carriers Inc",
+    "agreed_linehaul_cents": 367500,
+    "consignee": "Bluebonnet Beverage Co",
+    "accessorials_allowed": [
+      {
+        "code": "LUMPER",
+        "max_cents": 15000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1038",
+    "lane": "El Paso, TX -> Phoenix, AZ",
+    "pickup_date": "2026-05-19",
+    "carrier_mc": "771455",
+    "carrier_name": "Apex Freight Solutions",
+    "agreed_linehaul_cents": 390000,
+    "consignee": "Cordova Cold Storage",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1039",
+    "lane": "Long Beach, CA -> Las Vegas, NV",
+    "pickup_date": "2026-05-24",
+    "carrier_mc": "748266",
+    "carrier_name": "Bluegrass Motor Freight Inc",
+    "agreed_linehaul_cents": 152500,
+    "consignee": "Cordova Cold Storage",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1040",
+    "lane": "Long Beach, CA -> Las Vegas, NV",
+    "pickup_date": "2026-06-03",
+    "carrier_mc": "815648",
+    "carrier_name": "Gulf Current Logistics LLC",
+    "agreed_linehaul_cents": 397500,
+    "consignee": "Westgate Distribution Center",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      },
+      {
+        "code": "LUMPER",
+        "max_cents": 15000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1041",
+    "lane": "Stockton, CA -> Portland, OR",
+    "pickup_date": "2026-05-18",
+    "carrier_mc": "733415",
+    "carrier_name": "Prairie Sky Transport LLC",
+    "agreed_linehaul_cents": 237500,
+    "consignee": "Hilltop Foods DC #4",
+    "accessorials_allowed": [
+      {
+        "code": "LUMPER",
+        "max_cents": 15000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1042",
+    "lane": "Oakland, CA -> Reno, NV",
+    "pickup_date": "2026-06-03",
+    "carrier_mc": "688191",
+    "carrier_name": "Sundial Logistics Inc",
+    "agreed_linehaul_cents": 252500,
+    "consignee": "Hilltop Foods DC #4",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      },
+      {
+        "code": "LUMPER",
+        "max_cents": 15000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1043",
+    "lane": "Laredo, TX -> Memphis, TN",
+    "pickup_date": "2026-05-22",
+    "carrier_mc": "702553",
+    "carrier_name": "Comet Line Freight LLC",
+    "agreed_linehaul_cents": 377500,
+    "consignee": "Cordova Cold Storage",
+    "accessorials_allowed": [
+      {
+        "code": "LUMPER",
+        "max_cents": 15000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1044",
+    "lane": "Nuevo Laredo, MX -> San Antonio, TX",
+    "pickup_date": "2026-06-03",
+    "carrier_mc": "774512",
+    "carrier_name": "Lakeshore Freightways Inc",
+    "agreed_linehaul_cents": 267500,
+    "consignee": "Summit Building Supply",
+    "accessorials_allowed": []
+  },
+  {
+    "load_id": "L-1045",
+    "lane": "Stockton, CA -> Portland, OR",
+    "pickup_date": "2026-06-05",
+    "carrier_mc": "815648",
+    "carrier_name": "Gulf Current Logistics LLC",
+    "agreed_linehaul_cents": 467500,
+    "consignee": "Marquez Produce Co",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1046",
+    "lane": "Long Beach, CA -> Las Vegas, NV",
+    "pickup_date": "2026-05-29",
+    "carrier_mc": "688191",
+    "carrier_name": "Sundial Logistics Inc",
+    "agreed_linehaul_cents": 275000,
+    "consignee": "Marquez Produce Co",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1047",
+    "lane": "Nuevo Laredo, MX -> San Antonio, TX",
+    "pickup_date": "2026-05-22",
+    "carrier_mc": "688191",
+    "carrier_name": "Sundial Logistics Inc",
+    "agreed_linehaul_cents": 367500,
+    "consignee": "Cordova Cold Storage",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      },
+      {
+        "code": "LUMPER",
+        "max_cents": 15000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1048",
+    "lane": "Laredo, TX -> Memphis, TN",
+    "pickup_date": "2026-05-25",
+    "carrier_mc": "789344",
+    "carrier_name": "Copperline Carriers LLC",
+    "agreed_linehaul_cents": 192500,
+    "consignee": "Hilltop Foods DC #4",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      },
+      {
+        "code": "LUMPER",
+        "max_cents": 15000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1049",
+    "lane": "Oakland, CA -> Reno, NV",
+    "pickup_date": "2026-05-25",
+    "carrier_mc": "523901",
+    "carrier_name": "Bay & Border Freight LLC",
+    "agreed_linehaul_cents": 312500,
+    "consignee": "Summit Building Supply",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      },
+      {
+        "code": "LUMPER",
+        "max_cents": 15000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1050",
+    "lane": "Stockton, CA -> Portland, OR",
+    "pickup_date": "2026-06-02",
+    "carrier_mc": "412887",
+    "carrier_name": "Meridian Haulage Inc",
+    "agreed_linehaul_cents": 335000,
+    "consignee": "Summit Building Supply",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1051",
+    "lane": "Nuevo Laredo, MX -> San Antonio, TX",
+    "pickup_date": "2026-05-29",
+    "carrier_mc": "634710",
+    "carrier_name": "Pelican Transport LLC",
+    "agreed_linehaul_cents": 230000,
+    "consignee": "Bluebonnet Beverage Co",
+    "accessorials_allowed": []
+  },
+  {
+    "load_id": "L-1052",
+    "lane": "Nuevo Laredo, MX -> San Antonio, TX",
+    "pickup_date": "2026-05-21",
+    "carrier_mc": "412887",
+    "carrier_name": "Meridian Haulage Inc",
+    "agreed_linehaul_cents": 327500,
+    "consignee": "Bluebonnet Beverage Co",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      }
+    ]
+  },
+  {
+    "load_id": "L-1053",
+    "lane": "Oakland, CA -> Reno, NV",
+    "pickup_date": "2026-05-22",
+    "carrier_mc": "702553",
+    "carrier_name": "Comet Line Freight LLC",
+    "agreed_linehaul_cents": 350000,
+    "consignee": "Cordova Cold Storage",
+    "accessorials_allowed": []
+  },
+  {
+    "load_id": "L-1054",
+    "lane": "Stockton, CA -> Portland, OR",
+    "pickup_date": "2026-06-03",
+    "carrier_mc": "655402",
+    "carrier_name": "Ironwood Trucking Co",
+    "agreed_linehaul_cents": 262500,
+    "consignee": "Bluebonnet Beverage Co",
+    "accessorials_allowed": []
+  },
+  {
+    "load_id": "L-1055",
+    "lane": "Oakland, CA -> Reno, NV",
+    "pickup_date": "2026-06-03",
+    "carrier_mc": "702553",
+    "carrier_name": "Comet Line Freight LLC",
+    "agreed_linehaul_cents": 412500,
+    "consignee": "Cordova Cold Storage",
+    "accessorials_allowed": [
+      {
+        "code": "DET",
+        "max_cents": 40000
+      }
+    ]
+  }
+]
