@@ -4,7 +4,7 @@
 
 An autonomous freight-audit agent that validates carrier invoices against **the live web as a source of truth** — phantom carriers, fuel surcharges computed off stale diesel prices, duplicate billings, illegible proof-of-delivery scans. It flags the money. It never moves it.
 
-https://www.loom.com/share/f5b0cf50f1b4408b9aea8be020576b05
+[Loom Demo](https://www.loom.com/share/d263c43c05924d37b3728909b0ac7f10)
 
 ![make demo — real captured output](docs/demo.gif)
 
@@ -96,3 +96,7 @@ No third-party ClawHub skills (we wrote our own — see `skill/`). Docker sandbo
 ---
 
 *Built for [BuilderShip](https://ship.builders) by a team that runs its actual AP ops on OpenClaw. Stowaway flags the money. It never moves it.*
+
+<img width="1317" height="713" alt="StowawayDemoSlack" src="https://github.com/user-attachments/assets/ec9b9ec9-3bd4-4c86-824a-fa3e1ef0944e" />
+<img width="1317" height="697" alt="StowawayDemoReport" src="https://github.com/user-attachments/assets/590143cb-65bd-4cd3-8e6a-e49093910467" />
+<img width="1317" height="713" alt="StowawayDemoGmail" src="https://github.com/user-attachments/assets/2e9bca10-f48d-46a6-a351-7587ad612f3e" />
