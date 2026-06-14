@@ -4,6 +4,8 @@
 
 An autonomous freight-audit agent that validates carrier invoices against **the live web as a source of truth** — phantom carriers, fuel surcharges computed off stale diesel prices, duplicate billings, illegible proof-of-delivery scans. It flags the money. It never moves it.
 
+https://www.loom.com/share/f5b0cf50f1b4408b9aea8be020576b05
+
 ![make demo — real captured output](docs/demo.gif)
 
 ```
@@ -20,7 +22,6 @@ $ make demo        # zero API keys, zero dependencies, runs in <1 second
 Worst: Bluewater Logistics LLC (INV-26036) — MC 998877 does not
 exist in FMCSA records. Do not pay.
 
-https://www.loom.com/share/f5b0cf50f1b4408b9aea8be020576b05
 ```
 
 ## The problem
