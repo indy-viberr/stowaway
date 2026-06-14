@@ -19,6 +19,8 @@ $ make demo        # zero API keys, zero dependencies, runs in <1 second
 💸 $4,751 recoverable, $24,846 held.
 Worst: Bluewater Logistics LLC (INV-26036) — MC 998877 does not
 exist in FMCSA records. Do not pay.
+
+https://www.loom.com/share/f5b0cf50f1b4408b9aea8be020576b05
 ```
 
 ## The problem
