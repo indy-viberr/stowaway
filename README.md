@@ -48,7 +48,7 @@ RECONCILIATION  exceptions ranked by dollar impact, each with an evidence
                 a human in chat. Clean invoices recommended for billing.
 ```
 
-Runtime is **OpenClaw**: a heartbeat wakes the agent every 30 minutes, it audits whatever arrived, and it messages you in Telegram only when there's money on the table. See [`ARCHITECTURE.md`](ARCHITECTURE.md) for the full design and [`skill/SKILL.md`](skill/SKILL.md) for the agent wiring.
+Runtime is **OpenClaw**: a heartbeat wakes the agent every 30 minutes, it audits whatever arrived, and it messages you in Slack, via Composio, only when there's money on the table. See [`ARCHITECTURE.md`](ARCHITECTURE.md) for the full design and [`skill/SKILL.md`](skill/SKILL.md) for the agent wiring.
 
 ## Run it
 
