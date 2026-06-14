@@ -23,7 +23,7 @@ exist in FMCSA records. Do not pay.
 
 ## The problem
 
-It's 4:45 on a Friday at a 300-truck freight operation. The AP clerk has 200 carrier invoices in the queue. Every check is trivial — *does this carrier's MC number exist? was this fuel surcharge computed from this week's DOE diesel index? didn't we already pay this load?* At volume, trivial checks get skipped, and skipped checks always favor the carrier. Roughly **40% of freight invoices contain errors**; double-brokering fraud alone costs the industry hundreds of millions a year.
+It's 4:45 on a Friday at a 300-truck freight operation. The AP clerk has 200 carrier invoices in the queue. Every check is trivial — *does this carrier's MC number exist? was this fuel surcharge computed from this week's DOE diesel index? didn't we already pay this load?* At volume, trivial checks get skipped, and skipped checks always favor the carrier. Roughly **40% of freight invoices contain errors**; double-brokering fraud alone costs the industry hundreds of millions a year. https://www.freehand.ai/blog/freight-fraud-doesnt-look-like-fraud-it-looks-like-normal-billing
 
 The deeper problem: **half the truth an invoice must match lives outside your four walls, and it changes weekly.** Your TMS knows what you agreed to. It does not know whether MC 998877 exists, what diesel cost on Monday, or that "Apex Freight Solutions" registered 11 weeks ago at a mailbox store in Doral, FL.
 
